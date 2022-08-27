@@ -19,7 +19,7 @@ button:hover {background-color: lightgray;}
 .no-border-bottom{ border-bottom: transparent; }
 .no-border-left{ border-left: transparent; }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 430px) {
     .square { width:75px; height:75px; }
     .reset { width: 236px; }
   }
